@@ -1,6 +1,6 @@
 # Atelier Intelligent: Architectural Bathroom Planner for Kohler India
 
-**[🎥 Watch the 3-Minute Demo Video Here](https://youtu.be/WJFcg2Clo58)**
+**[🎥 Watch the Demo Video Here](https://youtu.be/WJFcg2Clo58)**
 
 Atelier Intelligent is a custom Python-based combinatorial constraint engine built for Kohler digital showrooms. It replaces standard generative text AI with mathematical spatial planning, ensuring curated bathroom ensembles fit both the physical floorplan and the client's exact budget.
 
