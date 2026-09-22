@@ -2,7 +2,7 @@
 
 **[🎥 Watch the Demo Video Here](https://youtu.be/WJFcg2Clo58)**
 
-Atelier Intelligent is a custom Python-based combinatorial constraint engine built for Kohler digital showrooms. It replaces standard generative text AI with mathematical spatial planning, ensuring curated bathroom ensembles fit both the physical floorplan and the client's exact budget.
+Atelier Intelligent is a custom Python-based combinatorial constraint engine. It replaces standard generative text AI with mathematical spatial planning, ensuring curated bathroom ensembles fit both the physical floorplan and the client's exact budget.
 
 ## Core Architecture
 * **Combinatorial Knapsack Engine:** Evaluates thousands of Kohler fixture combinations to maximize aesthetic fidelity (PVD finishes) without exceeding the user's targeted financial envelope.
